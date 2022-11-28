@@ -1,4 +1,4 @@
-package com.antnest.kafka;
+package com.antnest.kafka.entity;
 
 import lombok.*;
 

@@ -1,6 +1,6 @@
 package com.antnest.kafka.service;
 
-import com.antnest.kafka.User;
+import com.antnest.kafka.entity.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
 package com.antnest.kafka.config;
 
-import com.antnest.kafka.User;
+import com.antnest.kafka.entity.User;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.beans.factory.annotation.Value;
